@@ -1,0 +1,8 @@
+spring: 
+    profiles: test
+
+user:
+    userName: xiaolin
+    age: 18
+    sex: 男
+        
